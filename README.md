@@ -1,5 +1,7 @@
 # LJF1 Application
 
+[![Build Status](https://travis-ci.org/Cassianokunsch/LJF1.svg?branch=develop)](https://travis-ci.org/Cassianokunsch/LJF1)
+
 ## Resumo do Projeto
 
 O LJF1 Application tem como objetivo auxiliar o lava-jato fórmula no controle de seus clientes, serviços prestados, finanças e promoções, pois a única forma de controle que o lava-jato é uma planilha impressa, preenchida manualmente todos os dias pelo funcionário responsável em receber o pagamento.
