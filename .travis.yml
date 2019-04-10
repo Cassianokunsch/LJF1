@@ -7,3 +7,6 @@ node_js:
 install:
   - npm i
   - npm i -g @adonisjs/cli
+
+scripts:
+  echo test
