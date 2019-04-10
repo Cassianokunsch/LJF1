@@ -9,4 +9,4 @@ install:
   - npm i -g @adonisjs/cli
 
 scripts:
-  echo test
+  - echo test
